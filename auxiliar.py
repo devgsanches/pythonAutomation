@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-# position = posição do mouse/x e y; print = imprimir; mostrar aquela informação
+# position = posição do mouse/x e y
 time.sleep(5)
 print(pyautogui.position())
 
