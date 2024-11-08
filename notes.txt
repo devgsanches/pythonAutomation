@@ -1,0 +1,23 @@
+CONTEÚDOS:
+Programando horário para rodar seu código: https://www.youtube.com/watch?v=SxEjH...
+
+Escrever passo a passo do projeto - Python: uma das linguagens de programação mais
+usadas.
+
+- "#" vira um comentário, uma anotação onde só você verá.
+
+O que é Lógica de programação?
+ 
+Para qualquer automação:
+Anote o passo a passo do que você tem que fazer no seu programa em português, depois só
+traduz pra código, de acordo com a linguagem trabalhada.
+
+Biblioteca - PYAUTOGUI (RPA) Automação.
+
+Comandos são intuitivos
+
+Comando - pip install pyautogui
+
+
+
+
